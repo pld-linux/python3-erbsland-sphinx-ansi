@@ -6,13 +6,13 @@
 Summary:	Sphinx extension to format ANSI colored/formated terminal output
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa do formatowania wyjścia terminalowego z kolorami ANSI i formatowaniem
 Name:		python3-erbsland-sphinx-ansi
-Version:	1.1.0
+Version:	1.2.4
 Release:	1
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/erbsland-sphinx-ansi/
 Source0:	https://files.pythonhosted.org/packages/source/e/erbsland-sphinx-ansi/erbsland_sphinx_ansi-%{version}.tar.gz
-# Source0-md5:	8067db3b3727d26c462d81d3f86cdcd9
+# Source0-md5:	b198a0b8fdb65c6ab361d97f3f33a62b
 URL:		https://pypi.org/project/erbsland-sphinx-ansi/
 BuildRequires:	python3-build
 BuildRequires:	python3-hatch-vcs
